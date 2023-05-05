@@ -1,4 +1,3 @@
-
 !pip install -q openai
 
 import openai
